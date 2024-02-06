@@ -9,8 +9,8 @@
     "strict": true,
     "skipLibCheck": true,
     "paths": {
-      "tm/*": ["./*"],
-      "frontendReact/*": ["../frontendReact/*"],
+      "@root/tm/*": ["./*"],
+      "@root/frontend-react/*": ["../frontendReact/*"],
     }
   }
 }

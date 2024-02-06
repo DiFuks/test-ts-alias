@@ -1,4 +1,4 @@
-import { MainPage } from "tm/pages/MainPage";
+import { MainPage } from '@root/tm/pages/MainPage';
 
 const App = () => {
 	return MainPage();

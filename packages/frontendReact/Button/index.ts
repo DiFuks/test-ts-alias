@@ -1,1 +1,1 @@
-export * from 'frontendReact/Button/Button';
+export * from '@root/frontend-react/Button/Button';
