@@ -2,14 +2,12 @@
   "compilerOptions": {
     "baseUrl": ".",
     "target": "es2016",
-    "module": "commonjs",
     "esModuleInterop": true,
     "noEmit": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,
-    "paths": {
-      "frontendReact/*": ["./*"],
-    }
+    "module": "esnext",
+    "moduleResolution": "bundler"
   }
 }

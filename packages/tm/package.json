@@ -1,5 +1,18 @@
 {
   "name": "@root/tm",
+  "imports": {
+    "#*": [
+      "./*",
+      "./*.ts",
+      "./*.tsx",
+      "./*.js",
+      "./*.jsx",
+      "./*/index.ts",
+      "./*/index.tsx",
+      "./*/index.js",
+      "./*/index.jsx"
+    ]
+  },
   "packageManager": "yarn@4.1.0",
   "scripts": {
     "build": "webpack --mode production",
