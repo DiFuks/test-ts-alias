@@ -18,4 +18,4 @@
   написав [webpack-плагин](https://github.com/webpack/webpack/discussions/17770)
   для резолва путей. Но надо ли оно?
 - При импортировании frontendReact из TM, будут использованы алиасы из tsconfig, а не название пакета. Из-за этого
-  будет путаница![1.png](.github%2Fimages%2F1.png)
+  у нас сейчас путаница![1.png](.github%2Fimages%2F1.png)
