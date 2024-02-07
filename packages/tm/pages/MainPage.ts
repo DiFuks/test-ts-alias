@@ -1,4 +1,4 @@
-import { Button } from '@root/frontend-react/Button';
+import { Button } from '@root/frontend-react/Button/Button';
 
 export const MainPage = () => {
 	return Button();
