@@ -7,10 +7,6 @@
     "noEmit": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "skipLibCheck": true,
-    "paths": {
-      "@root/tm/*": ["./*"],
-      "@root/frontend-react/*": ["../frontendReact/*"],
-    }
+    "skipLibCheck": true
   }
 }

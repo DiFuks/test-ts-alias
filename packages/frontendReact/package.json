@@ -5,8 +5,8 @@
     "build": "webpack --mode production",
     "tsc": "tsc"
   },
-  "main": "./src/index.ts",
-  "types": "./src/index.ts",
+  "main": "./index.ts",
+  "types": "./index.ts",
   "dependencies": {
     "typescript": "^5.3.3"
   }
